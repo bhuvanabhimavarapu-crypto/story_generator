@@ -4,7 +4,7 @@ This project is a simple AI-inspired Story Generator that creates unique stories
 
 ## Features
 - Generates short stories
-- Uses customizable characters and settings
+- Uses characters, themes, genre and settings as per the user's requirement.
 
 
 ## Author
