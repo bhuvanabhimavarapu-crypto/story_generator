@@ -17,7 +17,7 @@ def generate_story(character, genre, setting):
     endings = [
         "In the end, everything worked out perfectly.",
         "The experience changed their life forever.",
-        "It became a story remembered for years."
+        "It became a story remembered for years,"
     ]
 
     story = (
