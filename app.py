@@ -8,7 +8,7 @@ def generate_story(character, genre, setting):
         f"Everything changed when {character} entered {setting}."
     ]
 
-    conflicts = [
+    middles = [
         "A mysterious challenge suddenly appeared.",
         "A hidden secret was discovered.",
         "An unexpected adventure began."
@@ -31,7 +31,7 @@ def generate_story(character, genre, setting):
 print(
     generate_story(
         "Bhuvana",
-        "Adventure",
-        "a hidden island"
+        "Fantasy",
+        "a castle"
     )
 )
